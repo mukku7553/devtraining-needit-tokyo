@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="DELETE">
+        <breakdown display_value="Opened Hour Of Day">ce78fb10eb00020065deac6aa206fe63</breakdown>
+        <display>true</display>
+        <indicator display_value="NeedIt: Due Monthly hours">e5c47555971031106ae0b3b6f053afc3</indicator>
+        <order>100</order>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 01:06:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3900211975031106ae0b3b6f053af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Opened Hour Of Day.NeedIt: Due Monthly hours</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_e3900211975031106ae0b3b6f053af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 01:06:34</sys_updated_on>
+    </pa_indicator_breakdowns>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c2db3620db8368109a4dcac50596196b</instance_id>
+        <instance_name>dev107145</instance_name>
+        <name>pa_indicator_breakdowns_e3900211975031106ae0b3b6f053af94</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns"><pa_indicator_breakdowns action="INSERT_OR_UPDATE"><breakdown display_value="Opened Hour Of Day">ce78fb10eb00020065deac6aa206fe63</breakdown><display>true</display><indicator display_value="NeedIt: Due Monthly hours">e5c47555971031106ae0b3b6f053afc3</indicator><order>100</order><sql_statement/><sys_class_name>pa_indicator_breakdowns</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 01:06:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e3900211975031106ae0b3b6f053af94</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Opened Hour Of Day.NeedIt: Due Monthly hours</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_indicator_breakdowns_e3900211975031106ae0b3b6f053af94</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 01:06:34</sys_updated_on></pa_indicator_breakdowns></record_update>]]></payload>
+        <payload_hash>1613787057</payload_hash>
+        <record_name>e5c47555971031106ae0b3b6f053afc3</record_name>
+        <reverted_from/>
+        <source>764e01a6978031106ae0b3b6f053afe5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 01:06:35</sys_created_on>
+        <sys_id>e7900211975031106ae0b3b6f053af9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18994e223200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 01:06:35</sys_updated_on>
+        <type>Indicator Breakdown</type>
+        <update_guid>239002110d503110b773f342a9038f9c</update_guid>
+        <update_guid_history>239002110d503110b773f342a9038f9c:1613787057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Due Monthly hours">a1f4ce15975031106ae0b3b6f053af22</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 01:25:34</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicator_breakdowns">pa_indicator_breakdowns</sys_db_object>
+        <sys_id>1edaf63fa94f4520a91d8aa86d64ce40</sys_id>
+        <sys_metadata>e3900211975031106ae0b3b6f053af94</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Opened Hour Of Day.NeedIt: Due Monthly hours</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt: Due Monthly hours">e5c47555971031106ae0b3b6f053afc3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_indicator_breakdowns_e3900211975031106ae0b3b6f053af94</sys_update_name>
+        <sys_update_version display_value="pa_indicator_breakdowns_e3900211975031106ae0b3b6f053af94">e7900211975031106ae0b3b6f053af9c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 01:25:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
